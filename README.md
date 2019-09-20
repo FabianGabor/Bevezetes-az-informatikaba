@@ -1,4 +1,4 @@
-# Bevezetes-az-informatikaba
+# Bevezetés az informatikába
 ### Nyíregyházi Egyetem - Programtervező informatikus | CXNU8T
 
 
